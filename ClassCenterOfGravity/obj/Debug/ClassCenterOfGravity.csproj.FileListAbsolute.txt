@@ -1,0 +1,7 @@
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Debug\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Debug\ClassCenterOfGravity.pdb
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Debug\SaveToCSV.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Debug\SaveToCSV.pdb
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Debug\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Debug\ClassCenterOfGravity.pdb

@@ -1,0 +1,13 @@
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\ClassCenterOfGravity.pdb
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\SaveToCSV.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ResolveAssemblyReference.cache
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\Visual Studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ClassCenterOfGravity.pdb
+C:\Users\klab\documents\visual studio 2010\Projects\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\SaveToCSV.pdb
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\ClassCenterOfGravity.pdb
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\bin\Release\SaveToCSV.pdb
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ClassCenterOfGravity.csprojResolveAssemblyReference.cache
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ClassCenterOfGravity.dll
+C:\Users\klab\Documents\就活\登録プロジェクト\ClassCenterOfGravity\ClassCenterOfGravity\obj\Release\ClassCenterOfGravity.pdb
